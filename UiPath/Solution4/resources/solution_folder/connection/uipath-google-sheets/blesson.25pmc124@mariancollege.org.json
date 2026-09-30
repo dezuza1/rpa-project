@@ -1,0 +1,29 @@
+{
+  "docVersion": "1.0.0",
+  "resource": {
+    "name": "blesson.25pmc124@mariancollege.org",
+    "kind": "connection",
+    "type": "uipath-google-sheets",
+    "apiVersion": "integrationservice.uipath.com/v1",
+    "isOverridable": true,
+    "dependencies": [],
+    "runtimeDependencies": [],
+    "files": [],
+    "folders": [
+      {
+        "fullyQualifiedName": "solution_folder"
+      }
+    ],
+    "spec": {
+      "connectorName": "Google Sheets",
+      "name": "blesson.25pmc124@mariancollege.org",
+      "description": null,
+      "authenticationType": "AuthenticateAfterDeployment",
+      "connectorVersion": "1.9.38",
+      "connectorKey": "uipath-google-sheets",
+      "pollingInterval": 5
+    },
+    "locks": [],
+    "key": "6473d839-c47e-4629-97a5-283f4c51a99c"
+  }
+}

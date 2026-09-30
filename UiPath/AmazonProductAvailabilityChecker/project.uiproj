@@ -1,0 +1,6 @@
+{
+  "Name": "AmazonProductAvailabilityChecker",
+  "ProjectType": "Process",
+  "Description": "Checks Amazon product availability automatically.",
+  "MainFile": "Main.xaml"
+}
